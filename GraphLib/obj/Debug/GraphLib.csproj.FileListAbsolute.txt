@@ -1,0 +1,10 @@
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.dll
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.pdb
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\Graphics\GraphLib\bin\Debug\GraphLib.dll
+C:\Users\bagge\Documents\Visual Studio 2017\Projects\Graphics\GraphLib\bin\Debug\GraphLib.pdb
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\bin\Debug\GraphLib.dll
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\bin\Debug\GraphLib.pdb
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.dll
+C:\Visual Studio 2017\Projects\Graphics\GraphLib\obj\Debug\GraphLib.pdb
